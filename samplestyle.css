@@ -1,0 +1,15 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: Georgia;
+  background: url(peanuts.jpg);
+
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+	opacity: 0.9;
+}
